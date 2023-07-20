@@ -73,16 +73,16 @@ body{
 }
 @media(max-width:600px){
     body{
-       width:100vw ;
-       height:auto;
+       width:400px;
+       height:400px;
         margin:0px 5rem;
         font-size:35px;        
     }
 }
 @media(min-width:992px){
     body{
-       width:100vw;
-       height:auto;
+       width:700px;
+       height:400px;
         margin:0px 5rem;
         font-size:5rem;
     }
