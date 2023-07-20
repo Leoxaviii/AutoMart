@@ -1,6 +1,6 @@
 *{
     padding:0;
-    width:100%;
+   /* width:100%;*/
     display:block;
     margin:0;
 }
@@ -76,7 +76,7 @@ body{
        width:400px;
        height:400px;
         margin:0px 5rem;
-        font-size:35px;        
+        font-size:20px;        
     }
 }
 @media(min-width:992px){
@@ -84,6 +84,6 @@ body{
        width:700px;
        height:400px;
         margin:0px 5rem;
-        font-size:5rem;
+        font-size:30px;
     }
 }
