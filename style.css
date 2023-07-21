@@ -1,4 +1,4 @@
-/*{
+*{
     padding: 0;
     margin:0;
     
@@ -60,78 +60,3 @@ body{
         font-size:30px;
     }
 }
-*/
-*{
-    padding:0px;
-  /* width:100%;*/
-    margin:0px;
-   /* display :block ;*/
-}
-body{
-    background-color :white ;
-    color:black;
-   font-family:Red hat display",Gill Sans Extrabold;
-    font-size :25px;
-    /*width: 400px;
-    height:auto;*/
-    
-.content {
-    font-size :20px ;
-   /* width:400px ;*/
-    
-}
-.log{
-    border-color:black;
-    background-color:#502366;
-    color:white;
-    border-radius :10px ;
-    padding :5px ;
-    width :415px ;
-    margin-top:30px ;
-    margin-left:5px;
-}
-.flex{
-    border-radius :10px ;
-    border-color :black ;
-    background-color :white ;
-    color :black ;
-    width:400px;
-    padding :5px;
-    margin:5px;
-}
-.special{
-    font-size :20px;
-    color :black ;
-    text-decoration :none ;
-    margin-left:200px;
-}
-.container{
-    font-size:20px;
-    text-align :center ;
-    width:400px;
-   /* margin-left:250px ;*/
-    height:300px;
-}
-.item{
-    margin:5px;;
-    padding :5px ;
-    width:400px;
-    border-radius:10px ;
-}
-
-@media(max-width:600px){
-    body{
-       width:350px;
-       height:400px;
-        margin:0px 5rem;
-        font-size:20px;        
-    }
-}
-@media(min-width:992px){
-    body{
-       width:700px;
-       height:400px;
-        margin:0px 5rem;
-        font-size:30px;
-   }
-   }
