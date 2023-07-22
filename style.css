@@ -47,14 +47,19 @@ body{
 @media(max-width:600px){
     body{
         width:400px;
-        font-size:25px ;
+       /* font-size:25px ;*/
         margin:0px 5rem ;
     }
- }
+    .container{
+               font-size:25px;
+    }
 @media(min-width:992px){
     body {
         width :700px;
-        font-size :40px ;
+       /* font-size :40px ;*/
         margin:0px 5rem ;
+    }
+    .container{
+        font-size:40px;
     }
 }
