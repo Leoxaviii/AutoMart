@@ -296,7 +296,6 @@ nav.sticky ul{
     width:25%;
 .body2{
     display: flex;
-    align-items: center;
     width:100%;
     padding:10%;
     padding-top:40px;
@@ -395,7 +394,7 @@ nav.sticky ul{
 }
 @media(max-width: 767px){
     .footer-col{
-        width: 50%;
+        width: 100%;
         margin-bottom: 30px;
     
     }
