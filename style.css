@@ -15,6 +15,7 @@ nav{
     width: 100%;
     padding: 20px 0;
     text-align: center;
+    display:flex;
 }
 .logo{
     width: 150px;
@@ -30,6 +31,7 @@ nav.menu{
     color: black;
     text-decoration:none;
     flex-wrap :wrap;
+    
 }
     .text{
     padding: 20px 8%;
