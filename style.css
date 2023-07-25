@@ -31,6 +31,11 @@ nav ul.menu{
     text-decoration:none;
    /* justify-content:space-between;*/
     display :flex;
+    text-align :center;
+}
+.menu:hover{
+    color:black;
+    text-decoration:none;
 }
     .text{
     padding: 20px 8%;
